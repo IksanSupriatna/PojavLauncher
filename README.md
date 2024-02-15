@@ -20,7 +20,8 @@
 - The official Twitter for PojavLauncher is [@PLaunchTeam](https://twitter.com/PLaunchTeam). Any others (most notably @PojavLauncher) are fake, please report them to Twitter's moderation team.
 
 ## Navigation
-- [Introduction](#introduction)  
+- [Introduction](#introduction)
+- [System Requirements](#system-requirements)
 - [Getting PojavLauncher](#getting-pojavlauncher)
 - [Building](#building) 
 - [Current status](#current-status) 
@@ -34,6 +35,17 @@
 * Modding via Forge and Fabric are also supported. 
 * This repository contains source code for Android. 
 * For iOS/iPadOS, check out [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS).
+
+## System Requirements
+* Minimum requirements:
+- Qualcomm Snapdragon 400 (or equivalent)
+- Android 5.0.
+- 1GB RAM.
+
+* Recommended requirements:
+- Qualcomm Snapdragon 820 (or equivalent) with Vulkan API support.
+- Android 8.0 and newer.
+- 4GB RAM.
 
 ## Getting PojavLauncher
 
